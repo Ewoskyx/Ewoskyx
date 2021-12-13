@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Microverse Projects**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Front-end Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ewoskyx](https://github.com/Ewoskyx)
 

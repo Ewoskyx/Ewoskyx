@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ewoskyx](https://github.com/Ewoskyx)
 
-- 💬 Ask me about **Javascript, Bootstrap5, CSS, SCSS**
+- 💬 Ask me about **JavaScript, Bootstrap5, CSS, SCSS**
 
 - 📫 How to reach me **ewoskyx@gmail.com**
 

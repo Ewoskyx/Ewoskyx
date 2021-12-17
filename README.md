@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evren</h1>
-<h3 align="center">A passionate Front-end developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewoskyx&label=Profile%20views&color=0e75b6&style=flat" alt="ewoskyx" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Microverse Projects**
 
-- 👯 I’m looking to collaborate on **Front-end Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ewoskyx](https://github.com/Ewoskyx)
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ewoskyx" alt="ewoskyx" /></a> </p>
 
-- 🔭 I’m currently working on **Microverse Projects and Gazibilisim Projects**
+- 🔭 I’m currently working on **Microverse Projects and Limonist Projects**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
